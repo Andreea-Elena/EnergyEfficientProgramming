@@ -1,0 +1,12 @@
+1. cd server
+2. cd lua
+3. make clean
+4. make all
+5. cd ..
+6. make clean
+7. make all
+// cc -std=c99 -D_DEFAULT_SOURCE impl/ht.c impl/http_header.c impl/str_utils.c server.c -Iheaders -o server -llua -Llua -lm -ldl -D_POSIX_C_SOURCE=199309L -Ilua
+8. ./server
+9. open new terminal
+10. cd driver
+11. python3 ndrive-headers.py

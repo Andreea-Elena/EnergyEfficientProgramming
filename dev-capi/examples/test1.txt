@@ -1,0 +1,128 @@
+ ./ncapi 
+MAIN::Listener on port 8888 
+MAIN::Waiting for connections ...MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 44930
+MAIN::New connection , socket fd is 5 , ip is : 127.0.0.1 , port : 44946
+MAIN::New connection , socket fd is 6 , ip is : 127.0.0.1 , port : 44954
+MAIN::---->Writen to socket 160547 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 44964
+MAIN::---->Writen to socket 160549 - 4 - 43
+MAIN::---->Writen to socket 160551 - 5 - 43
+MAIN::---->Writen to socket 160553 - 6 - 0
+MAIN::---->Writen to socket 160553 - 6 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 44978
+MAIN::New connection , socket fd is 5 , ip is : 127.0.0.1 , port : 44994
+MAIN::New connection , socket fd is 6 , ip is : 127.0.0.1 , port : 45008
+MAIN::---->Writen to socket 160556 - 4 - 43
+MAIN::---->Writen to socket 160557 - 5 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 45018
+MAIN::---->Writen to socket 160558 - 4 - 43
+MAIN::---->Writen to socket 160560 - 6 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 45032
+MAIN::---->Writen to socket 160562 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 45042
+MAIN::New connection , socket fd is 5 , ip is : 127.0.0.1 , port : 45044
+MAIN::---->Writen to socket 160565 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 45058
+MAIN::---->Writen to socket 160567 - 5 - 43
+MAIN::New connection , socket fd is 5 , ip is : 127.0.0.1 , port : 45070
+MAIN::---->Writen to socket 160569 - 4 - 43
+MAIN::---->Writen to socket 160570 - 5 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 45086
+MAIN::New connection , socket fd is 5 , ip is : 127.0.0.1 , port : 45090
+MAIN::---->Writen to socket 160572 - 4 - 43
+MAIN::---->Writen to socket 160574 - 5 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 45096
+MAIN::New connection , socket fd is 5 , ip is : 127.0.0.1 , port : 45100
+MAIN::---->Writen to socket 160577 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 45112
+MAIN::New connection , socket fd is 6 , ip is : 127.0.0.1 , port : 45118
+MAIN::---->Writen to socket 160580 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 45132
+MAIN::---->Writen to socket 160581 - 5 - 43
+MAIN::---->Writen to socket 160583 - 4 - 43
+MAIN::---->Writen to socket 160584 - 6 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 45140
+MAIN::---->Writen to socket 160587 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 45142
+MAIN::New connection , socket fd is 5 , ip is : 127.0.0.1 , port : 45154
+MAIN::---->Writen to socket 160589 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 45170
+MAIN::---->Writen to socket 160591 - 4 - 43
+MAIN::---->Writen to socket 160592 - 5 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 45186
+MAIN::New connection , socket fd is 5 , ip is : 127.0.0.1 , port : 45200
+MAIN::---->Writen to socket 160594 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 45208
+MAIN::---->Writen to socket 160597 - 5 - 43
+MAIN::New connection , socket fd is 5 , ip is : 127.0.0.1 , port : 45222
+MAIN::New connection , socket fd is 6 , ip is : 127.0.0.1 , port : 45226
+MAIN::New connection , socket fd is 7 , ip is : 127.0.0.1 , port : 45228
+MAIN::---->Writen to socket 160601 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 45244
+MAIN::---->Writen to socket 160602 - 5 - 43
+MAIN::---->Writen to socket 160604 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 45252
+MAIN::---->Writen to socket 160605 - 6 - 43
+MAIN::---->Writen to socket 160606 - 4 - 43
+MAIN::---->Writen to socket 160607 - 7 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 36350
+MAIN::---->Writen to socket 160647 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 36358
+MAIN::---->Writen to socket 160649 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 36364
+MAIN::New connection , socket fd is 5 , ip is : 127.0.0.1 , port : 36370
+MAIN::---->Writen to socket 160652 - 4 - 43
+MAIN::---->Writen to socket 160654 - 5 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 36376
+MAIN::New connection , socket fd is 5 , ip is : 127.0.0.1 , port : 36386
+MAIN::---->Writen to socket 160655 - 4 - 43
+MAIN::---->Writen to socket 160658 - 5 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 36396
+MAIN::New connection , socket fd is 5 , ip is : 127.0.0.1 , port : 36406
+MAIN::New connection , socket fd is 6 , ip is : 127.0.0.1 , port : 36410
+MAIN::---->Writen to socket 160661 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 36416
+MAIN::---->Writen to socket 160664 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 36430
+MAIN::New connection , socket fd is 7 , ip is : 127.0.0.1 , port : 36434
+MAIN::---->Writen to socket 160667 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 36446
+MAIN::New connection , socket fd is 8 , ip is : 127.0.0.1 , port : 36460
+MAIN::---->Writen to socket 160670 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 36468
+MAIN::New connection , socket fd is 9 , ip is : 127.0.0.1 , port : 36482
+MAIN::New connection , socket fd is 10 , ip is : 127.0.0.1 , port : 36496
+MAIN::---->Writen to socket 160673 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 36502
+MAIN::---->Writen to socket 160676 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 36508
+MAIN::New connection , socket fd is 11 , ip is : 127.0.0.1 , port : 36514
+MAIN::---->Writen to socket 160678 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 36522
+MAIN::---->Writen to socket 160681 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 36532
+MAIN::---->Writen to socket 160683 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 36542
+MAIN::New connection , socket fd is 12 , ip is : 127.0.0.1 , port : 36552
+MAIN::---->Writen to socket 160685 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 36568
+MAIN::New connection , socket fd is 13 , ip is : 127.0.0.1 , port : 36576
+MAIN::---->Writen to socket 160689 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 36590
+MAIN::New connection , socket fd is 14 , ip is : 127.0.0.1 , port : 36598
+MAIN::New connection , socket fd is 15 , ip is : 127.0.0.1 , port : 36608
+MAIN::New connection , socket fd is 16 , ip is : 127.0.0.1 , port : 36620
+MAIN::New connection , socket fd is 17 , ip is : 127.0.0.1 , port : 36628
+MAIN::---->Writen to socket 160694 - 4 - 43
+MAIN::New connection , socket fd is 4 , ip is : 127.0.0.1 , port : 36640
+MAIN::---->Writen to socket 160696 - 4 - 43
+MAIN::---->Writen to socket 160891 - 6 - 43
+MAIN::---->Writen to socket 160893 - 8 - 43
+MAIN::---->Writen to socket 160894 - 9 - 43
+MAIN::---->Writen to socket 160896 - 11 - 44
+MAIN::---->Writen to socket 160897 - 12 - 44
+MAIN::---->Writen to socket 160898 - 13 - 44
+MAIN::---->Writen to socket 160899 - 14 - 44
+MAIN::---->Writen to socket 160900 - 15 - 44
+MAIN::---->Writen to socket 160901 - 16 - 44
+MAIN::---->Writen to socket 160902 - 17 - 44
